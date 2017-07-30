@@ -1,7 +1,7 @@
 #!/bin/sh -ex
 
 # croni variables
-croni="* * * * *"
+croni="@reboot"
 timeout="5"
 
 # actual script

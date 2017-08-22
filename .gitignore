@@ -1,3 +1,6 @@
 croni.sh
 croni.html
-/croni_logs
+.cronitab
+croni/
+index.html
+logs

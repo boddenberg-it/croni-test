@@ -1,8 +1,8 @@
 # croni gererated crontab (https://git.boddenberg.it/croni)
-0 5,17 * * * /home/blobb/develop/cronit-tezt/croni-test/croni/croni.sh update
+0 5,17 * * * /home/blobb/develop/test_croni/croni-test/croni/croni.sh update
 
-@reboot /home/blobb/develop/cronit-tezt/croni-test/croni/croni.sh run tests test_fail.sh
-@reboot /home/blobb/develop/cronit-tezt/croni-test/croni/croni.sh run tests test_infotag_cutting.sh
-@reboot /home/blobb/develop/cronit-tezt/croni-test/croni/croni.sh run tests test_python.py
-@reboot /home/blobb/develop/cronit-tezt/croni-test/croni/croni.sh run tests test_timeout.sh
-@reboot /home/blobb/develop/cronit-tezt/croni-test/croni/croni.sh run tests test_workspace.sh
+@reboot /home/blobb/develop/test_croni/croni-test/croni/croni.sh run tests test_fail.sh
+@reboot /home/blobb/develop/test_croni/croni-test/croni/croni.sh run tests test_infotag_cutting.sh
+@reboot /home/blobb/develop/test_croni/croni-test/croni/croni.sh run tests test_python.py
+@reboot /home/blobb/develop/test_croni/croni-test/croni/croni.sh run tests test_timeout.sh
+@reboot /home/blobb/develop/test_croni/croni-test/croni/croni.sh run tests test_workspace.sh

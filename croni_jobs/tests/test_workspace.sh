@@ -1,6 +1,6 @@
 #!/bin/sh -ex
 
-croni="@reboot"
+croni="* * * * *"
 
 mkdir foo
 touch foo/bar

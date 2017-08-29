@@ -3,8 +3,6 @@
 # croni variables
 croni="* * * * *"
 timeout="180"
-reason_1="reason_1"
-reason_2="reason_2"
 
 # script
-exit 2
+exit 87

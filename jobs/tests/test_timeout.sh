@@ -1,10 +1,8 @@
 #!/bin/sh -ex
+croni="*/4 * * * *"
+croni_timeout="5"
 
-# croni variables
-croni="* * * * *"
-timeout="5"
-
-# actual script
+#  script
 echo "foobar"
 uname -a
 sleep 6

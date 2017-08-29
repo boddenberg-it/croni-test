@@ -1,6 +1,5 @@
 #!/bin/sh -ex
-
-croni="* * * * *"
+croni="*/5 * * * *"
 
 mkdir foo
 touch foo/bar

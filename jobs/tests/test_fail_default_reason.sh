@@ -1,7 +1,8 @@
 #!/bin/sh -ex
 
 # croni variables
-croni="*/3 * * * *"
+croni="*/10 * * * *"
+timeout="180"
 
 # script
-exit 1
+exit 87

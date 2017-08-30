@@ -11,8 +11,7 @@ echo "[INFO] Initialising and deployment of croni"
 ./croni.sh run hello_world hello_world.sh
 ./croni.sh run hello_world hello_world.sh
 
-rm init.sh
-
+echo
 echo
 echo " ~:~ Welcome to croni on http://localhost:8080 ~:~"
 echo

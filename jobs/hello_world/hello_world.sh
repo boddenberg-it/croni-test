@@ -1,4 +1,4 @@
 #!/bin/sh
-croni="* * * * *"
+croni="0 * * * *"
 
 echo "Hello world!"

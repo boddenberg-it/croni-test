@@ -1,6 +1,5 @@
-croni.sh
-croni.html
 .cronitab
-croni/
+.cronitab_new
+croni.sh
 index.html
-logs
+/logs

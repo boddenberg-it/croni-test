@@ -15,5 +15,5 @@ echo
 
 echo
 echo
-echo " ~:~ Navigate to http://localhost:8080 to see your croni instance ~:~"
+echo "[INFO] Navigate to http://localhost:8080 to see your croni instance"
 echo

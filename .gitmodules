@@ -1,0 +1,3 @@
+[submodule "croni"]
+	path = croni
+	url = https://github.com/boddenberg-it/croni

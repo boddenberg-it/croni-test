@@ -7,9 +7,9 @@ git submodule update
 echo
 echo "[INFO] Initialising and deployment of croni"
 ./croni/croni.sh init
-./croni.sh run hello_world hello_world.sh
-./croni.sh run hello_world hello_world.sh
-./croni.sh run hello_world hello_world.sh
+./croni.sh run hello_project hello_world.sh
+./croni.sh run hello_project hello_world.sh
+./croni.sh run hello_project hello_world.sh
 
 echo
 echo
